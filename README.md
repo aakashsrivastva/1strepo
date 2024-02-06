@@ -1,3 +1,3 @@
 # 1strepo
 My first git repository
-author Aakash
+author Aakash srivastva
